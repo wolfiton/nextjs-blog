@@ -12,7 +12,7 @@ This sample should read the markdown files and generate stattic content in the n
 
 What is actually happening:
 
-I recieve an error: 
+I receive an error:
 
 ```terminal
 TypeError: Cannot read property 'map' of undefined
